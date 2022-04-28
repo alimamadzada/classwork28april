@@ -1,0 +1,22 @@
+img {
+  /* width: 100%; */
+  width: 100%;
+}
+.fifth {
+  /* width: 800px; */
+  border: 25px solid greenyellow;
+  width: 800px;
+}
+.fourth {
+  /* width: 100%; */
+  border: 25px solid rebeccapurple;
+  width: 850px;
+}
+
+.third {
+  width: 900px;
+  border: 25px solid yellowgreen;
+}
+.second{
+
+}

@@ -1,0 +1,16 @@
+.banner {
+  text-align: center;
+  width: 500px;
+  height: auto;
+  border: 5px solid green;
+  border-radius: 0px 13px 0px 13px;
+  padding: 15px;
+}
+.banner .underline {
+  background-color: rgba(0, 255, 255, 0.171);
+  border-bottom: solid green;
+  padding: 10px;
+}
+.container {
+    position: absolute;
+}
